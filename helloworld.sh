@@ -15,3 +15,4 @@
 
 echo "Hello, world!"
 echo "Web, Boris date: $(date)"
+echo "CLI, Boris date: $(date)"
