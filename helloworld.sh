@@ -14,3 +14,4 @@
 # limitations under the License.
 
 echo "Hello, world!"
+echo "Web, Boris date: $(date)"
